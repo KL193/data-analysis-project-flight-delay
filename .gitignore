@@ -1,0 +1,8 @@
+venv/
+data/flights_sample_3m.csv
+__pycache__/
+*.pyc
+.DS_Store
+*.ipynb_checkpoints
+data/dictionary.html
+data/flights_processed.csv
