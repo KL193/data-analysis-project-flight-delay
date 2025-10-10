@@ -6,3 +6,4 @@ __pycache__/
 *.ipynb_checkpoints
 data/dictionary.html
 data/flights_processed.csv
+data/flights_cleaned.csv
