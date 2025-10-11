@@ -8,3 +8,4 @@ data/dictionary.html
 data/flights_processed.csv
 data/flights_cleaned.csv
 scenario_analysis_results.csv
+recommended_reschedules.csv
