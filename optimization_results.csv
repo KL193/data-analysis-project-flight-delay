@@ -1,0 +1,14 @@
+Metric,Value
+High-Risk Flights,"100,000"
+Baseline Expected Delays,38
+Optimized Expected Delays,8
+Delay Reduction (%),78.8
+Optimal Maintenance Checks,0
+Optimal Extra Crew,0
+Optimal Buffer Time Flights,100
+Optimal Backup Aircraft,4
+Baseline Cost,"$190,246.99"
+Intervention Cost,"$55,000.00"
+Optimized Total Cost,"$95,246.99"
+Total Savings,"$95,000.00"
+ROI (%),172.7
