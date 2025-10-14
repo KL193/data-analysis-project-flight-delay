@@ -106,7 +106,7 @@ Use predictive models for real-time scheduling and proactive passenger communica
 
 Clone the repository
 
-git clone https://github.com/<your-username>/flight-delay-prediction.git
+git clone [https://github.com/<your-username>/flight-delay-prediction.git](https://github.com/KL193/data-analysis-project-flight-delay.git)
 cd flight-delay-prediction
 
 
