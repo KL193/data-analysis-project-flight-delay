@@ -1,5 +1,5 @@
-✈️ Flight Delay Prediction and Optimization
-📘 Overview
+# ✈️ Flight Delay Prediction and Optimization
+# 📘 Overview
 
 This project focuses on predicting and minimizing flight delays using a combination of machine learning models and prescriptive optimization techniques.
 The workflow follows the three pillars of analytics:
@@ -10,7 +10,7 @@ Predictive Analytics: Forecasting delay probabilities using ML models.
 
 Prescriptive Analytics: Recommending actions to minimize expected delays through optimization.
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 Clean and preprocess large flight datasets.
 
@@ -22,7 +22,7 @@ Implement a linear programming model to minimize total delay time.
 
 Visualize insights to help airport authorities make data-driven decisions.
 
-⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 Programming Language: Python
 
@@ -35,8 +35,8 @@ Visualization: Matplotlib, Seaborn
 Machine Learning: Scikit-learn, XGBoost
 
 Optimization: PuLP
-🧠 Methodology
-1️⃣ Data Preprocessing
+# 🧠 Methodology
+## 1️⃣ Data Preprocessing
 
 Handled missing values:
 
@@ -48,7 +48,7 @@ Removed columns with excessive missing values (e.g., CANCELLATION_CODE).
 
 Saved clean dataset for modeling.
 
-2️⃣ Feature Engineering
+## 2️⃣ Feature Engineering
 
 Extracted time-based features: year, month, day, day of week, quarter.
 
