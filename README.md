@@ -60,7 +60,7 @@ Built route-based metrics like route frequency and airport daily traffic.
 
 Defined target variable (IS_DELAYED) where flights delayed > 15 mins are labeled as 1.
 
-3️⃣ Predictive Analytics
+## 3️⃣ Predictive Analytics
 
 Implemented four ML models:
 
@@ -72,7 +72,7 @@ Neural Network	1.0000	0.9999	1.0000
 
 Best Model: Neural Network (highest overall performance).
 
-4️⃣ Prescriptive Analytics
+## 4️⃣ Prescriptive Analytics
 
 Used Linear Programming (PuLP) to optimize rescheduling decisions.
 
@@ -82,7 +82,7 @@ Achieved total expected delay reduction of 517,413.3 minutes.
 
 Generated insights and recommendations for airport scheduling improvements.
 
-📊 Key Insights
+# 📊 Key Insights
 
 Departure delay is highly correlated with arrival delay.
 
@@ -92,7 +92,7 @@ Weather, carrier issues, and late aircraft arrivals are major delay contributors
 
 Machine learning models can accurately predict potential flight delays before departure.
 
-💡 Recommendations for Airport Authorities
+# 💡 Recommendations for Airport Authorities
 
 Prioritize rescheduling of flights with delay probability > 0.7.
 
@@ -102,7 +102,7 @@ Monitor routes and carriers with frequent delay patterns for operational improve
 
 Use predictive models for real-time scheduling and proactive passenger communication.
 
-🚀 How to Run
+# 🚀 How to Run
 
 Clone the repository
 
@@ -122,7 +122,7 @@ jupyter notebook
 
 Open the notebooks in the /notebooks folder and execute step by step.
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Kavindu Lakshan
+## Kavindu Lakshan
 📧 lakshankasthuriarachchi@gmail.com
